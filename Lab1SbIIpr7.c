@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+        int i=1;
+
+        while(i<=100)
+        {
+
+        if ((i>=32)&&(i<=39))
+
+            printf("%d ",i);
+
+        i++;
+
+        }
+
+}
